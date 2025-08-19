@@ -6,8 +6,10 @@ Customize how many numbers, lowercase letters, uppercase letters, and special ch
 Generates a random password based on your preferences.
 Ensures passwords are shuffled for maximum unpredictability.
 ## Password Strength Tester
-Rule-based tester: Scores passwords based on length, character variety, and repeated characters.
-Brute-force tester: Simulates guessing the password using the rockyou.txt dictionary and brute-force attempts, showing how many tries it would take to crack it.
+### Rule-based tester:
+Scores passwords based on length, character variety, and repeated characters.
+### Brute-force tester:
+Simulates guessing the password using the rockyou.txt dictionary and brute-force attempts, showing how many tries it would take to crack it.
 Provides a strength score from 0 to 10.
 # How to Use
 Run the program with Python (python password_tool.py).
